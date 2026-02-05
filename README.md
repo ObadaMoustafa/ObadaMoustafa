@@ -2,10 +2,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://github.com/ObadaElSharbatly/ObadaElSharbatly/blob/main/GitHub-banner.jpg" width="100%" title="Intro Card" alt="Intro Card">
-</p>
-
 I am a Full-stack Mobile and Web Developer who has passion to write organized and complicated code. :computer:
   
  👯 I’m looking to find new challenges and learn more and more.
